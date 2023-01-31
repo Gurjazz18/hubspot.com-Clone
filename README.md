@@ -2,7 +2,7 @@
 A collaborative project --> www.hubspot.com
 
 #Demo
-https://subtle-semifreddo-ade928.netlify.app/
+https://bespoke-gumdrop-e4c156.netlify.app/
 
 * A CRM platform that connects everything scaling companies need to deliver a best-in-class customer experience into one place
 Provides onBoarding ,Cunsultancy etc.
